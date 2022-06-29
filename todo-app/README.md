@@ -1,8 +1,8 @@
-# react-toDo-list
-
-> Pages: [https://mehmeturmac.github.io/react-toDo-list/](https://mehmeturmac.github.io/react-toDo-list/)
+# React To Do List Ödevi
 
 ## React kullanarak To-Do List Yapmak
+
+>
 
 ### Ödev içerisinde işlenen konular;
 
@@ -11,8 +11,3 @@
 - States ve Lifecycle kullanımı
 - localStorage kullanımı
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-[Patika](https://www.patika.dev)
