@@ -1,1 +1,1 @@
-# patika-dev-react
+# Patika.dev React Howmeworks
