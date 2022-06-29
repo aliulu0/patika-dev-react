@@ -1,8 +1,6 @@
 # React To Do List Ödevi
 
-## React kullanarak To-Do List Yapmak
-
->
+> https://aliulu0.github.io/patika-dev-react/
 
 ### Ödev içerisinde işlenen konular;
 
